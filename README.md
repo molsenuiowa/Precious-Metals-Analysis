@@ -23,17 +23,8 @@ Ensure you have R and RStudio installed. You will also need the following R pack
 - `reshape2`
 - `ggridges`
 
-You can install these packages using R command:
+You can install these packages using the R command:
 ```R
 install.packages(c("dplyr", "ggplot2", "tidyr", "readr", "plotly", "reshape2", "ggridges"))
 
-## Running the Analysis
-
-To execute the analysis, follow these steps:
-
-1. **Open RStudio.** Start RStudio on your computer.
-
-2. **Set your working directory** to the folder containing the project files. You can do this from RStudio, or by using the `setwd` command:
-   ```R
-   setwd("path_to_your_directory")
 
