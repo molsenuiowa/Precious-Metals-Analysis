@@ -36,3 +36,4 @@ To execute the analysis, follow these steps:
 2. **Set your working directory** to the folder containing the project files. You can do this from RStudio, or by using the `setwd` command:
    ```R
    setwd("path_to_your_directory")
+
